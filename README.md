@@ -1,5 +1,7 @@
 # Affable Assignment
 
+[Affable Data Science Task](https://beaffable.notion.site/Affable-Data-Science-Task-4bd49129d1b6404f8c96c098785a25d0)
+
 ## Quick Start
 
 ### Python
